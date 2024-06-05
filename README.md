@@ -8,3 +8,5 @@ Changes from the Tutorial:
     Classes instead of Structs
 
     Code had been divided into multiple files and headers
+
+Programmed using C++ with OpenGl, GLFW, and GLAD and GLEW
